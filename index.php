@@ -338,7 +338,7 @@
 
                                                     <div class="stm-counter-meta heading-font">
                                                         <div class="stm-value-wrapper">
-                                                            <div class="stm-value" id="counter_9848">1750</div>
+                                                            <div class="stm-value" id="counter_9848">17500</div>
                                                             <div class="stm-value-affix">+</div>
                                                         </div>
                                                         <div class="stm-label">visitors per day</div>
@@ -352,7 +352,7 @@
 
                                         <script type="text/javascript">
                                             jQuery(document).ready(function ($) {
-                                                var counter_9848 = new countUp("counter_9848", 0, 1750, 0, 2.5, {
+                                                var counter_9848 = new countUp("counter_9848", 0, 17500, 0, 2.5, {
                                                     useEasing: true,
                                                     useGrouping: true,
                                                     separator: ''
