@@ -442,7 +442,7 @@
 
                                                     <div class="stm-counter-meta heading-font">
                                                         <div class="stm-value-wrapper">
-                                                            <div class="stm-value" id="counter_5540">250</div>
+                                                            <div class="stm-value" id="counter_5540">2500</div>
                                                             <div class="stm-value-affix">+</div>
                                                         </div>
                                                         <div class="stm-label">verified dealers</div>
@@ -456,7 +456,7 @@
 
                                         <script type="text/javascript">
                                             jQuery(document).ready(function ($) {
-                                                var counter_5540 = new countUp("counter_5540", 0, 250, 0, 1.5, {
+                                                var counter_5540 = new countUp("counter_5540", 0, 2500, 0, 1.5, {
                                                     useEasing: true,
                                                     useGrouping: true,
                                                     separator: ''
